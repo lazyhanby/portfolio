@@ -1,0 +1,23 @@
+url: "https://lazyhanby.github.io"
+baseurl: "/portfolio"
+title: Lazy hanby's PORTFOLIO
+author: Lazyhanby
+email: 
+description: >-
+  Hey folks! I'm 3D and Game Youtuber Currently working on new videos and short films!
+
+social:
+  youtube: lazy hanby
+  sketchfab: lazy hanby
+  reddit: lazy hanby
+  linkedin:
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+collections:
+  images:
+    output: true
